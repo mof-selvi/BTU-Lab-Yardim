@@ -1,4 +1,4 @@
-# BTU-Lab-Yardim
+# BTU Lab Yardım Dökümanı
 
 [1) Bilgisayarın şifresi nedir?](Sifre.md)
 
@@ -11,3 +11,5 @@
 [5) SQL Server'a bağlanamıyorum.](SqlServer.md)
 
 [6) Elektrik/internet/donanım/yazılım arızası olan bilgisayar var.](Ariza.md)
+
+[**Sorunum listede yok.**](Diger.md)
