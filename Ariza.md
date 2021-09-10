@@ -1,0 +1,6 @@
+- Eğer herhangi bir elektrik, internet bağlantısı, donanım veya yazılım arızası ile karşılaşırsanız dersinizin hocasına durumu bildirip başka bir bilgisayara geçmek istediğinizi belirtin.
+
+- Lütfen, ders sonrasında arızayı eposta yoluyla acilen bize iletin:
+  > [Arş. Gör. Muhammed Ömer Faruk Selvi](https://sayfam.btu.edu.tr/site/muhammed.selvi/index.html)
+  > [Arş. Gör. Mehmet Cüneyt Özbalcı](https://sayfam.btu.edu.tr/site/mehmet.ozbalci/index.html)
+  
