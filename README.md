@@ -12,4 +12,6 @@
 
 [6) Elektrik/internet/donanım/yazılım arızası olan bilgisayar var.](Ariza.md)
 
+
+
 [**Sorunum listede yok.**](Diger.md)
