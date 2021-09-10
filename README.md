@@ -4,7 +4,7 @@
 
 [2) Linux'a nasıl geçerim?](Linux.md)
 
-[3) Windows'a nasıl geçerim](Windows.md)
+[3) Windows'a nasıl geçerim?](Windows.md)
 
 [4) Tahtayı göremiyorum. Hocanın ekranını nasıl görebilirim?](Izle.md)
 
