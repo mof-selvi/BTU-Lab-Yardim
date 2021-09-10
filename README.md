@@ -10,4 +10,4 @@
 
 [5) SQL Server'a bağlanamıyorum.](SqlServer.md)
 
-[6) Elektrik/İnternet/donanım arızası olan bilgisayar var.](Ariza.md)
+[6) Elektrik/İnternet/donanım/yazılım arızası olan bilgisayar var.](Ariza.md)
