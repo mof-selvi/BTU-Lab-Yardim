@@ -8,4 +8,4 @@
 
 - Bir seçim yapmazsanız varsayılan olarak ilk seçenek olan Linux işletim sistemi başlatılacaktır.
 
-- Windows'u başlatmak için 3. seçenek olan Windows Boot Manager'ı seçmelisiniz.
+- Windows'u başlatmak için 3. seçenek olan Windows Boot Manager'ı seçiniz.
