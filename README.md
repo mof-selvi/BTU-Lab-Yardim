@@ -1,9 +1,9 @@
 # BTU-Lab-Yardim
 
-[1) Bilgisayarın şifresi nedir?](Sifre)
+[1) Bilgisayarın şifresi nedir?](Sifre.md)
 
-[2) Linux'a nasıl geçerim?](Linux)
+[2) Linux'a nasıl geçerim?](Linux.md)
 
-[3) Windows'a nasıl geçerim](Windows)
+[3) Windows'a nasıl geçerim](Windows.md)
 
-[4) Tahtayı göremiyorum. Hocanın ekranını nasıl görebilirim?](Izle)
+[4) Tahtayı göremiyorum. Hocanın ekranını nasıl görebilirim?](Izle.md)
