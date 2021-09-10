@@ -9,3 +9,5 @@
 [4) Tahtayı göremiyorum. Hocanın ekranını nasıl görebilirim?](Izle.md)
 
 [5) SQL Server'a bağlanamıyorum.](SqlServer.md)
+
+[6) Elektrik/İnternet/donanım arızası olan bilgisayar var.](Ariza.md)
