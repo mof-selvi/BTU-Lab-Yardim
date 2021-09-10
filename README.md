@@ -7,3 +7,5 @@
 [3) Windows'a nasıl geçerim](Windows.md)
 
 [4) Tahtayı göremiyorum. Hocanın ekranını nasıl görebilirim?](Izle.md)
+
+[5) SQL Server'a bağlanamıyorum.](SqlServer.md)
